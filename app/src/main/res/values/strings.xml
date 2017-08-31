@@ -1,0 +1,171 @@
+<resources>
+    <string name="app_name">Frequency</string>
+    <string name="user">Usuario</string>
+    <string name="pass">Contraseña</string>
+    <string name="repass">Repita Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="agregar">Agregar</string>
+    <string name="title_activity_principal">PrincipalActivity</string>
+    <!-- Menu Lateral-->
+    <string name="paciente">Paciente</string>
+    <string name="doctor">Medico</string>
+    <string name="calendario">Calendario</string>
+    <string name="cuidadores">Cuidadores</string>
+    <string name="notificaciones">Notificaciones</string>
+    <string name="fechadatos">Fecha:</string>
+    <string name="Nfecha">19-03-1995</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_calendar">Calendario</string>
+    <string name="title_activity_medico">Medico</string>
+    <string name="title_activity_pacient">Paciente</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_editar">Editar Cuidador</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="app">Aplicaión</string>
+    <string name="settings">Ajustes</string>
+    <string name="cerrar">Cerrar Sesión</string>
+    <string name="exit">Salir</string>
+    <string name="apellidoP">Apellido Paterno</string>
+    <string name="apellidoM">Apellido Materno</string>
+    <string name="selecimg">Seleccione Imagen</string>
+    <string name="nombre">Nombre Usuario</string>
+    <string name="nombreA">Nombre</string>
+    <string name="Nedad">65 años</string>
+    <string name="edad">Edad</string>
+    <string name="correo">Correo@usuario.cl</string>
+    <string name="datohoy">Datos de Hoy</string>
+    <string name="ultimo">Ultimo Cuidador</string>
+    <string name="updte">Actualizar Datos</string>
+
+    <string name="sapu">SAPU</string>
+    <string name="hospital">Hospital</string>
+    <string name="ambulacia">Ambulancia</string>
+    <string name="carabinero">Carabineros</string>
+    <string name="emergencia">Emergencias</string>
+    <string name="suspensivo">...</string>
+    <string name="ubicacion">Ubicación Paciente</string>
+    <string name="web">W W W</string>
+    <string name="sitios">Sitios de Interes</string>
+    <string name="pregunta">Preguntas</string>
+
+    <string name="ciudad">Ciudad</string>
+    <string name="Nciudad">Chillan</string>
+    <string name="telefono">Telefono</string>
+    <string name="Ntelefono">98765432</string>
+    <string name="direccion">Dirección</string>
+    <string name="Ndireccion">mi casa 23</string>
+    <string name="email">Correo</string>
+    <string name="rut">Rut</string>
+    <string name="Nrut">11.111.111-1</string>
+    <string name="controles">Controles:</string>
+    <string name="clinica">Clinica</string>
+    <string name="Nclinica">Clinica Chillan</string>
+
+    <!-- Fragmens datos -->
+    <string name="apetito">Nivel de Apetito</string>
+    <string name="inicoS">Inicio de Sueño</string>
+    <string name="finS">Fin de Sueño</string>
+    <string name="hora">00:00</string>
+    <string name="diaAnt">Dia anterior</string>
+    <string name="interrup">Interrupción de Sueño</string>
+    <string name="inicioI">Inicio Interrupción</string>
+    <string name="finI">Fin Interrupción</string>
+    <string name="observa">Observaciones De Sueño</string>
+    <string name="guardasueno">Guardar Horas de Sueño</string>
+    <string name="comidaN">Numero de Comidas</string>
+    <string name="numero">3</string>
+    <string name="Digestion">Problemas de Digestión</string>
+    <string name="Sintomas">Sintomas</string>
+    <string name="observaComida">Observaciones De Comidas</string>
+    <string name="guardacomida">Guardar Comidas</string>
+    <string name="observaGerne">Observaciones Generales</string>
+    <string name="guardaobserva">Guardar Observaciones</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="title_activity_datos">Datos Diarios</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_cuidador_list">Lista de Cuidadores</string>
+    <string name="title_cuidador_detail">Detalles del Cuidador</string>
+    <string name="title_add">Agregar Cuidador</string>
+    <string name="title_activity_maps">Ubicación Paciente</string>
+    <string name="title_activity_map_paciente">Map</string>
+
+
+</resources>
